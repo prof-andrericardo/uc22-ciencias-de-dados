@@ -1,0 +1,6 @@
+Nome,Tipo 1,Tipo 2,HP,Ataque,Defesa,Ataque Especial,Defesa Especial,Velocidade,Habilidade,Habilidade Oculta,Natureza,Grupo de Ovo,Altura (m),Peso (kg),Taxa de Captura,Gênero,Método de Evolução,Shiny,Mega Evolução/Forma Regional
+Pikachu,Elétrico,,35,55,40,50,50,90,Estático,,Timid,Field,0.4,6.0,190,50% ♂ / 50% ♀,Pedra do Trovão (Raichu),Sim,Alolan Raichu
+Charizard,Fogo,Voador,78,84,78,109,85,100,Chama,,Adamant,Monster / Dragon,1.7,90.5,45,87.5% ♂ / 12.5% ♀,Evolui de Charmeleon (Nível 36),Sim,Mega Charizard X/Y
+Bulbasaur,Grama,Veneno,45,49,49,65,65,45,Superar,,Modest,Monster / Grass,0.7,6.9,45,87.5% ♂ / 12.5% ♀,Evolui para Ivysaur (Nível 16),Sim,None
+Squirtle,Água,,44,48,65,50,64,43,Torrente,,Bold,Monster / Water,0.5,9.0,45,87.5% ♂ / 12.5% ♀,Evolui para Wartortle (Nível 16),Sim,None
+Mewtwo,Psíquico,,106,110,90,154,90,130,Pressão,,Timid,Undiscovered,2.0,122.0,3,Sem gênero,Não evolui,Sim,Mega Mewtwo X/Y
