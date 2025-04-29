@@ -26,17 +26,17 @@ Cada aula foi projetada para equilibrar teoria e prática, utilizando exemplos d
 
 ## 📚 Aulas do 1º Trimestre
 
-| Nº   | Aula                                               | Link                 |
-| ---- | -------------------------------------------------- | -------------------- |
-| 01   | 📖 Tipos de Dados                                   | [Aula 01](aula01.md) |
-| 02   | 📖 Variáveis e Algoritmos de Aprendizado de Máquina | [Aula 02](aula02.md) |
-| 03   | 📖 Big Data e os 4 Vs                               | [Aula 03](aula03.md) |
-| 04   | 📖 Pipeline de Dados                                | [Aula 04](aula04.md) |
-| 05   | 📖 Visualização de Dados                            | [Aula 05](aula05.md) |
-| 06   | 📖 Profissões em Dados                              | [Aula 06](aula06.md) |
-| 07   | 📖 Habilidades e Ferramentas em Ciência de Dados    | [Aula 07](aula07.md) |
-| 08   | 📖 Dados Booleanos e Classificação de Colunas       | [Aula 08](aula08.md) |
-| 09   | 📖 Guia de Estudo para Avaliação Trimestral         | [Aula 09](aula09.md) |
+|  Nº  | Aula / Tema                                        | Link                  |
+| :--: | -------------------------------------------------- | --------------------- |
+|  1️⃣   | 📖 Tipos de Dados                                   | [🔗 Aula 1](aula01.md) |
+|  2️⃣   | 📖 Variáveis e Algoritmos de Aprendizado de Máquina | [🔗 Aula 2](aula02.md) |
+|  3️⃣   | 📖 Big Data e os 4 Vs                               | [🔗 Aula 3](aula03.md) |
+|  4️⃣   | 📖 Pipeline de Dados                                | [🔗 Aula 4](aula04.md) |
+|  5️⃣   | 📖 Visualização de Dados                            | [🔗 Aula 5](aula05.md) |
+|  6️⃣   | 📖 Profissões em Dados                              | [🔗 Aula 6](aula06.md) |
+|  7️⃣   | 📖 Habilidades e Ferramentas em Ciência de Dados    | [🔗 Aula 7](aula07.md) |
+|  8️⃣   | 📖 Dados Booleanos e Classificação de Colunas       | [🔗 Aula 8](aula08.md) |
+|  9️⃣   | 📖 Guia de Estudo para Avaliação Trimestral         | [🔗 Aula 9](aula09.md) |
 
 ---
 

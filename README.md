@@ -32,6 +32,15 @@ A UC22 tem como proposta:
 ```
 uc22-ciencias-de-dados/
 └── 1ºtrimestre/
+    ├── aula01.md
+    ├── aula02.md
+    ├── aula03.md
+    ├── aula04.md
+    ├── aula05.md
+    ├── aula06.md
+    ├── aula07.md
+    ├── aula08.md
+    └── aula09.md
 └── 2ºtrimestre/
     ├── aula01.md
     ├── aula02.md
@@ -46,19 +55,35 @@ uc22-ciencias-de-dados/
 
 ---
 
+## 📚 Aulas do 1º Trimestre
+
+|  Nº  | Aula / Tema                                        | Link                              |
+| :--: | -------------------------------------------------- | --------------------------------- |
+|  1️⃣   | 📖 Tipos de Dados                                   | [🔗 Aula 1](1ºtrimestre/aula01.md) |
+|  2️⃣   | 📖 Variáveis e Algoritmos de Aprendizado de Máquina | [🔗 Aula 2](1ºtrimestre/aula02.md) |
+|  3️⃣   | 📖 Big Data e os 4 Vs                               | [🔗 Aula 3](1ºtrimestre/aula03.md) |
+|  4️⃣   | 📖 Pipeline de Dados                                | [🔗 Aula 4](1ºtrimestre/aula04.md) |
+|  5️⃣   | 📖 Visualização de Dados                            | [🔗 Aula 5](1ºtrimestre/aula05.md) |
+|  6️⃣   | 📖 Profissões em Dados                              | [🔗 Aula 6](1ºtrimestre/aula06.md) |
+|  7️⃣   | 📖 Habilidades e Ferramentas em Ciência de Dados    | [🔗 Aula 7](1ºtrimestre/aula07.md) |
+|  8️⃣   | 📖 Dados Booleanos e Classificação de Colunas       | [🔗 Aula 8](1ºtrimestre/aula08.md) |
+|  9️⃣   | 📖 Guia de Estudo para Avaliação Trimestral         | [🔗 Aula 9](1ºtrimestre/aula09.md) |
+
+---
+
 ## 📚 Aulas do 2º Trimestre
 
-| Nº | Aula | Tema | Link |
-|----|------|------|------|
-| 1️⃣ | Aula 01 | Revisão dos Conceitos do 1º Trimestre | [🔗 aula01.md](2ºtrimestre/aula01.md) |
-| 2️⃣ | Aula 02 | Fontes de Dados Abertos e Coleta | [🔗 aula02.md](2ºtrimestre/aula02.md) |
-| 3️⃣ | Aula 03 | Introdução a Arquivos CSV | [🔗 aula03.md](2ºtrimestre/aula03.md) |
-| 4️⃣ | Aula 04 | Leitura de CSV com Pandas | [🔗 aula04.md](2ºtrimestre/aula04.md) |
-| 5️⃣ | Aula 05 | Filtros e Seleção de Dados | [🔗 aula05.md](2ºtrimestre/aula05.md) |
-| 6️⃣ | Aula 06 | Agrupamento, Ordenação e Gráficos | [🔗 aula06.md](2ºtrimestre/aula06.md) |
-| 7️⃣ | Aula 07 | Limpeza e Padronização de Dados | [🔗 aula07.md](2ºtrimestre/aula07.md) |
-| 8️⃣ | Aula 08 | Revisão Teórica Avaliativa | [🔗 aula08.md](2ºtrimestre/aula08.md) |
-| 9️⃣ | Aula 09 | Projeto Prático – Análise com Pokémons | [🔗 aula09.md](2ºtrimestre/aula09.md) |
+| Nº | Aula / Tema | Link |
+|:--:|:----:|------|
+| 1️⃣ | 📖 Revisão dos Conceitos do 1º Trimestre | [🔗 Aula 1](2ºtrimestre/aula01.md) |
+| 2️⃣ | 📖 Fontes de Dados Abertos e Coleta | [🔗 Aula 2](2ºtrimestre/aula02.md) |
+| 3️⃣ | 📖 Introdução a Arquivos CSV | [🔗 Aula 3](2ºtrimestre/aula03.md) |
+| 4️⃣ | 📖 Leitura de CSV com Pandas | [🔗 Aula 4](2ºtrimestre/aula04.md) |
+| 5️⃣ | 📖 Filtros e Seleção de Dados | [🔗 Aula 5](2ºtrimestre/aula05.md) |
+| 6️⃣ | 📖 Agrupamento, Ordenação e Gráficos | [🔗 Aula 6](2ºtrimestre/aula06.md) |
+| 7️⃣ | 📖 Limpeza e Padronização de Dados | [🔗 Aula 7](2ºtrimestre/aula07.md) |
+| 8️⃣ | 📖 Revisão Teórica Avaliativa | [🔗 Aula 8](2ºtrimestre/aula08.md) |
+| 9️⃣ | 📖 Projeto Prático – Análise com Pokémons | [🔗 Aula 9](2ºtrimestre/aula09.md) |
 
 ---
 
