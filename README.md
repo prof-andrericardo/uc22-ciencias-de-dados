@@ -57,24 +57,24 @@ uc22-ciencias-de-dados/
 
 ## 📚 Aulas do 1º Trimestre
 
-|  Nº  | Aula / Tema                                        | Link                              |
-| :--: | -------------------------------------------------- | --------------------------------- |
-|  1️⃣   | 📖 Tipos de Dados                                   | [🔗 Aula 1](1ºtrimestre/aula01.md) |
-|  2️⃣   | 📖 Variáveis e Algoritmos de Aprendizado de Máquina | [🔗 Aula 2](1ºtrimestre/aula02.md) |
-|  3️⃣   | 📖 Big Data e os 4 Vs                               | [🔗 Aula 3](1ºtrimestre/aula03.md) |
-|  4️⃣   | 📖 Pipeline de Dados                                | [🔗 Aula 4](1ºtrimestre/aula04.md) |
-|  5️⃣   | 📖 Visualização de Dados                            | [🔗 Aula 5](1ºtrimestre/aula05.md) |
-|  6️⃣   | 📖 Profissões em Dados                              | [🔗 Aula 6](1ºtrimestre/aula06.md) |
-|  7️⃣   | 📖 Habilidades e Ferramentas em Ciência de Dados    | [🔗 Aula 7](1ºtrimestre/aula07.md) |
-|  8️⃣   | 📖 Dados Booleanos e Classificação de Colunas       | [🔗 Aula 8](1ºtrimestre/aula08.md) |
-|  9️⃣   | 📖 Guia de Estudo para Avaliação Trimestral         | [🔗 Aula 9](1ºtrimestre/aula09.md) |
+| Nº   | Aula / Tema                                        | Link                              |
+| :--- | :------------------------------------------------- | :-------------------------------- |
+| 1️⃣    | 📖 Tipos de Dados                                   | [🔗 Aula 1](1ºtrimestre/aula01.md) |
+| 2️⃣    | 📖 Variáveis e Algoritmos de Aprendizado de Máquina | [🔗 Aula 2](1ºtrimestre/aula02.md) |
+| 3️⃣    | 📖 Big Data e os 4 Vs                               | [🔗 Aula 3](1ºtrimestre/aula03.md) |
+| 4️⃣    | 📖 Pipeline de Dados                                | [🔗 Aula 4](1ºtrimestre/aula04.md) |
+| 5️⃣    | 📖 Visualização de Dados                            | [🔗 Aula 5](1ºtrimestre/aula05.md) |
+| 6️⃣    | 📖 Profissões em Dados                              | [🔗 Aula 6](1ºtrimestre/aula06.md) |
+| 7️⃣    | 📖 Habilidades e Ferramentas em Ciência de Dados    | [🔗 Aula 7](1ºtrimestre/aula07.md) |
+| 8️⃣    | 📖 Dados Booleanos e Classificação de Colunas       | [🔗 Aula 8](1ºtrimestre/aula08.md) |
+| 9️⃣    | 📖 Guia de Estudo para Avaliação Trimestral         | [🔗 Aula 9](1ºtrimestre/aula09.md) |
 
 ---
 
 ## 📚 Aulas do 2º Trimestre
 
 | Nº | Aula / Tema | Link |
-|:--:|:----:|------|
+|:---|------|------|
 | 1️⃣ | 📖 Revisão dos Conceitos do 1º Trimestre | [🔗 Aula 1](2ºtrimestre/aula01.md) |
 | 2️⃣ | 📖 Fontes de Dados Abertos e Coleta | [🔗 Aula 2](2ºtrimestre/aula02.md) |
 | 3️⃣ | 📖 Introdução a Arquivos CSV | [🔗 Aula 3](2ºtrimestre/aula03.md) |
