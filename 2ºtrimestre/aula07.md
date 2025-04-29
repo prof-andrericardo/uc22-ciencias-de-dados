@@ -1,7 +1,3 @@
-Perfeito! A seguir está a **Aula 7 – Limpeza e Padronização de Dados com Pandas**, com o mesmo nível de detalhamento, exemplos aplicados ao dataset `pokemons.csv`, linguagem acessível e foco total em formação sólida para alunos iniciantes.
-
-------
-
 # 📘 UC22 – Aula 7 – Limpeza e Padronização de Dados com Pandas (Pokémons)
 
 🎓 **Curso:** Ensino Médio Técnico em Informática – 3º Ano

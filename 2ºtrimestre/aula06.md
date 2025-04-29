@@ -1,8 +1,3 @@
-Perfeito, professor André!
- A seguir está a **Aula 6 – Ordenação, Agrupamento e Gráficos com Pandas**, com o mesmo **nível de detalhamento, linguagem pedagógica e contextualização com o universo Pokémon**, pensada para alunos iniciantes com base sólida em Python e Pandas.
-
-------
-
 # 📘 UC22 – Aula 6 – Ordenação, Agrupamento e Gráficos com Pandas (Pokémons)
 
 🎓 **Curso:** Ensino Médio Técnico em Informática – 3º Ano
