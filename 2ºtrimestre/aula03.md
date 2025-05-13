@@ -138,5 +138,3 @@ Anote os seguintes pontos:
 >  Também leve seu notebook (se tiver) e instale o **Google Chrome** para usar o **Google Colab**.
 
 ------
-
-Deseja que eu siga com a **Aula 4 – Leitura e Análise de Arquivos CSV com Pandas (Python)**?

@@ -239,5 +239,3 @@ print(df.shape)
 > Vamos **filtrar os dados**, **selecionar colunas específicas** e descobrir **como responder perguntas com os dados**.
 
 ------
-
-Deseja que eu siga com essa mesma linha para a **Aula 5 – Selecionando e Filtrando Dados com Pandas**?

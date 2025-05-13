@@ -218,5 +218,3 @@ print(df[df['Habilidade Oculta'].isnull()][['Nome', 'Habilidade', 'Habilidade Oc
 > **Organizar, agrupar e visualizar os dados com gráficos simples**, dando vida aos números por meio de imagens.
 
 ------
-
-Deseja que eu siga agora com a **Aula 6 – Ordenação, Agrupamento e Gráficos com Pandas e Pokémons** no mesmo nível de detalhamento?

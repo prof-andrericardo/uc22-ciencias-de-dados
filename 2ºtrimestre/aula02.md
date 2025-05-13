@@ -134,5 +134,3 @@ Agora você irá acessar o portal [dados.gov.br](https://dados.gov.br/) e seguir
 > Traga o arquivo `.csv` que você baixou nesta atividade ou use um dos exemplos que o professor irá fornecer. Teremos nossa **primeira leitura de dados reais com Python**! 💻🐍
 
 ------
-
-Deseja que eu continue agora com a **Aula 3 – Coleta e Leitura de Arquivos CSV**?
