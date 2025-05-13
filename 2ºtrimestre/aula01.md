@@ -140,3 +140,7 @@ Você deverá **criar um mapa mental ou esquema visual** que conecte os principa
 - Esses conceitos serão usados **em projetos práticos reais neste trimestre**.
 - Dominar bem esses fundamentos vai te ajudar em todo o restante do curso técnico, inclusive no **TCC e no mercado de trabalho.**
 
+--- 
+
+#### ⏩ [Próxima Aula: Fontes de Dados Abertos e Debate](aula02.md)
+#### 🏠 [Início](../README.md)

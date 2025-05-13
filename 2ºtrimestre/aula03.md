@@ -138,3 +138,7 @@ Anote os seguintes pontos:
 >  Também leve seu notebook (se tiver) e instale o **Google Chrome** para usar o **Google Colab**.
 
 ------
+
+#### ⏪ [Voltar: Fontes de Dados Abertos e Debate](aula02.md)  
+#### ⏩ [Próxima Aula: Leitura de CSV com Pandas](aula04.md)
+#### 🏠 [Início](../README.md)

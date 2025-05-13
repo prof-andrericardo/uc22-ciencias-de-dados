@@ -176,3 +176,7 @@ Hoje você aplicou:
 💪 Parabéns! Você agora entende como analisar dados como um cientista de dados iniciante!
 
 ------
+
+#### ⏪ [Voltar: Revisão Teórica Avaliativa (com questões)](aula08.md)  
+#### 🏁 [Fim do 2º Trimestre – Parabéns pelo progresso!]
+#### 🏠 [Início](../README.md)

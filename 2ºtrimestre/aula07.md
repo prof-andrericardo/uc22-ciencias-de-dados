@@ -202,3 +202,8 @@ print("Valores únicos em Gênero:", df['Gênero'].unique())
 
 > Você vai criar um **mini-projeto de análise descritiva completa**, combinando todos os comandos estudados até agora: leitura, seleção, filtro, agrupamento, gráficos e limpeza.
 
+---
+
+#### ⏪ [Voltar: Agrupamentos, Ordenação e Gráficos](aula06.md)  
+#### ⏩ [Próxima Aula: Revisão Teórica Avaliativa (com questões)](aula08.md)
+#### 🏠 [Início](../README.md)

@@ -202,3 +202,9 @@ Sequências:
 - A relação entre código, intenção e resultado final.
 
 📀 Esta aula servirá de base para o **Projeto Prático da próxima aula**, onde você irá aplicar os conceitos para realizar uma análise descritiva real com base nos Pokémons.
+
+---
+
+#### ⏪ [Voltar: Limpeza e Padronização de Dados](aula07.md)  
+#### ⏩ [Próxima Aula: Projeto Prático – Análise Descritiva com Pokémons](aula09.md)
+#### 🏠 [Início](../README.md)

@@ -218,3 +218,7 @@ print(df[df['Habilidade Oculta'].isnull()][['Nome', 'Habilidade', 'Habilidade Oc
 > **Organizar, agrupar e visualizar os dados com gráficos simples**, dando vida aos números por meio de imagens.
 
 ------
+
+#### ⏪ [Voltar: Leitura de CSV com Pandas](aula04.md)  
+#### ⏩ [Próxima Aula: Agrupamentos, Ordenação e Gráficos](aula06.md)
+#### 🏠 [Início](../README.md)

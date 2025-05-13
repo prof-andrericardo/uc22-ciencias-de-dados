@@ -239,3 +239,7 @@ print(df.shape)
 > Vamos **filtrar os dados**, **selecionar colunas específicas** e descobrir **como responder perguntas com os dados**.
 
 ------
+
+#### ⏪ [Voltar: Coleta e Leitura de Arquivos CSV](aula03.md)  
+#### ⏩ [Próxima Aula: Seleção e Filtros em DataFrames](aula05.md)
+#### 🏠 [Início](../README.md)
