@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 Sobre o 2º Trimestre  
+## 📚 Sobre o 3º Trimestre  
 
 Neste trimestre, você vai se tornar um **Cientista Pokémon**! 🧑‍🔬🔎  
 O foco está em **coleta, análise, visualização e limpeza de dados reais** com **Python + Pandas + Matplotlib**, sempre utilizando o ambiente **Google Colab**.  
