@@ -123,26 +123,99 @@ Lívia → Nota: 9.1
 
 ------
 
-## 📊 Mini-Projeto da Aula
+## 📊 Mini-Projeto da Aula 1 – Importando Dados do dados.gov.br  
 
-🎯 **Desafio:** Acesse o portal [dados.gov.br](https://dados.gov.br) e baixe um dataset em formato `.csv`.
+🎯 **Desafio:** Acesse o portal [dados.gov.br](https://dados.gov.br) e baixe um dataset em formato `.csv`.  
+Você vai aprender duas formas diferentes de abrir esse arquivo no **Google Colab**:  
 
-1. Identifique:
-   - Nome do dataset
-   - Órgão responsável
-   - Quantidade de colunas e linhas
-   - Três colunas e seus significados
-2. Abra no **Google Colab**:
+1. Fazendo o **upload direto** do arquivo.  
+2. Montando o **Google Drive** no Colab.  
+
+---
+
+### 🔹 Etapa 1 – Exploração do Dataset  
+
+Antes de abrir no Colab, identifique no dataset baixado:  
+
+- 📛 Nome do dataset  
+- 🏛️ Órgão responsável  
+- 📏 Quantidade de colunas e linhas  
+- 📝 Três colunas e seus significados  
+
+---
+
+### 🔹 Etapa 2 – Abrindo o CSV no Google Colab  
+
+#### ✅ Opção A – Upload direto no Colab  
+
+Esse é o jeito **mais simples e rápido** de carregar o arquivo.  
+Você faz o upload do CSV diretamente para a sessão atual do Colab.  
 
 ```python
 import pandas as pd
+from google.colab import files
 
-# Lendo o dataset escolhido (substitua pelo nome do arquivo)
-df = pd.read_csv("seu_arquivo.csv")
+# Upload manual do arquivo (vai abrir uma janela para escolher o CSV)
+uploaded = files.upload()
 
-# Primeiras linhas
+# Ler o arquivo CSV (substitua pelo nome correto do arquivo)
+df = pd.read_csv("nome_do_arquivo.csv")
+
+# Visualizar as 5 primeiras linhas
 df.head()
 ```
+
+📌 Observação: essa forma é prática, mas o arquivo **não fica salvo** no Colab.
+ Se você fechar a aba, terá que fazer o upload novamente.
+
+------
+
+#### ✅ Opção B – Usando o Google Drive
+
+Esse é o jeito **mais organizado e profissional**.
+ Você salva o CSV em uma pasta do Google Drive e monta o Drive no Colab.
+
+```python
+from google.colab import drive
+import pandas as pd
+
+# Montando o Google Drive
+drive.mount('/content/drive')
+
+# Caminho até o arquivo salvo no seu Google Drive
+df = pd.read_csv("/content/drive/MyDrive/dados_uc22/meu_dataset.csv")
+
+# Visualizar informações gerais
+df.info()
+```
+
+📌 Observação: aqui o arquivo **fica salvo** no seu Drive.
+ Mesmo que você feche o Colab, poderá acessá-lo na próxima vez.
+
+------
+
+### 🔹 Etapa 3 – Comparação das Abordagens
+
+No seu caderno (ou em uma célula de texto no Colab), responda:
+
+1. Qual das duas formas foi mais rápida para você?
+2. Qual delas parece mais prática para **um projeto longo**?
+3. Você percebeu alguma diferença no código de leitura (`read_csv`)?
+4. Se fosse fazer uma análise em grupo, qual abordagem usaria? Justifique.
+
+------
+
+### 🔹 Etapa 4 – Reflexão Final
+
+📢 Escreva uma conclusão:
+
+> “No meu caso, preferi a abordagem ___ porque ___.
+> Aprendi que o Colab permite tanto uploads rápidos quanto o uso organizado de pastas no Google Drive.”
+
+------
+
+✅ Com isso, você já domina as **duas principais formas de importar dados no Colab**!
+ Esse conhecimento será usado em **todo o restante do trimestre**.
 
 ------
 
@@ -183,3 +256,4 @@ df.head()
 #### [🏠 Voltar ao Início](./README.md)
 
 #### [⏩ Próxima Aula: Estrutura e Problemas em Arquivos CSV](./aula02.md)
+
