@@ -4,7 +4,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas)](https://pandas.pydata.org/)  
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab)](https://colab.research.google.com/)  
 [![Tempo](https://img.shields.io/badge/Duração-90%20min-red)]()  
-[![Nível](https://img.shields.io/badge/Nível-Iniciante%20➜%20Intermediário-purple)]()  
+[![Nível](https://img.shields.io/badge/Nível-Iniciante➜Intermediário-purple)]()  
 
 🎓 **Curso:** Ensino Médio Técnico em Informática – 3º Ano  
 🗓️ **Semana 1 – Aula 1 do 3º Trimestre**  
@@ -23,10 +23,10 @@
 ## 🎯 Objetivos da Aula  
 
 - Revisar os **fundamentos do 2º Trimestre** (tipos de dados, variáveis, pipeline, visualização).  
-- Entender o que são **dados abertos** e por que são importantes na sociedade.  
+- Entender o que são **dados abertos** e sua importância na sociedade.  
 - Explorar **portais oficiais de dados abertos** (INEP, IBGE, Dados.gov, Kaggle).  
 - Aprender a abrir e interpretar um arquivo `.csv` em diferentes ferramentas.  
-- Preparar o ambiente no **Google Colab** para o trimestre.  
+- Preparar o ambiente no **Google Colab** para os próximos projetos.  
 
 ---
 
@@ -80,7 +80,7 @@
 
 ### 🔹 Passo 1 – Acessar o Colab
 
-1. Abra: 👉 [Google Colab](https://colab.research.google.com)
+1. Abra 👉 [Google Colab](https://colab.research.google.com)
 2. Clique em **“+ Novo notebook”**
 3. Renomeie para: `UC22_Aula01.ipynb`
 
@@ -123,103 +123,64 @@ Lívia → Nota: 9.1
 
 ------
 
-## 📊 Mini-Projeto da Aula 1 – Importando Dados do dados.gov.br  
+## 📊 Mini-Projeto da Aula – Importando Dados
 
-🎯 **Desafio:** Acesse o portal [dados.gov.br](https://dados.gov.br) e baixe um dataset em formato `.csv`.  
-Você vai aprender duas formas diferentes de abrir esse arquivo no **Google Colab**:  
+🎯 **Desafio:** Acesse o portal [dados.gov.br](https://dados.gov.br) e baixe um dataset em formato `.csv`.
 
-1. Fazendo o **upload direto** do arquivo.  
-2. Montando o **Google Drive** no Colab.  
+### Etapa 1 – Identifique
 
----
+- 📛 Nome do dataset
+- 🏛️ Órgão responsável
+- 📏 Quantidade de colunas e linhas
+- 📝 Três colunas e seus significados
 
-### 🔹 Etapa 1 – Exploração do Dataset  
+------
 
-Antes de abrir no Colab, identifique no dataset baixado:  
+### Etapa 2 – Abra no Google Colab
 
-- 📛 Nome do dataset  
-- 🏛️ Órgão responsável  
-- 📏 Quantidade de colunas e linhas  
-- 📝 Três colunas e seus significados  
-
----
-
-### 🔹 Etapa 2 – Abrindo o CSV no Google Colab  
-
-#### ✅ Opção A – Upload direto no Colab  
-
-Esse é o jeito **mais simples e rápido** de carregar o arquivo.  
-Você faz o upload do CSV diretamente para a sessão atual do Colab.  
+#### ✅ Opção A – Upload direto no Colab
 
 ```python
 import pandas as pd
 from google.colab import files
 
-# Upload manual do arquivo (vai abrir uma janela para escolher o CSV)
+# Upload manual (abre janela para escolher o CSV)
 uploaded = files.upload()
 
-# Ler o arquivo CSV (substitua pelo nome correto do arquivo)
+# Ler o arquivo (substitua pelo nome correto)
 df = pd.read_csv("nome_do_arquivo.csv")
-
-# Visualizar as 5 primeiras linhas
 df.head()
 ```
-
-📌 Observação: essa forma é prática, mas o arquivo **não fica salvo** no Colab.
- Se você fechar a aba, terá que fazer o upload novamente.
 
 ------
 
 #### ✅ Opção B – Usando o Google Drive
 
-Esse é o jeito **mais organizado e profissional**.
- Você salva o CSV em uma pasta do Google Drive e monta o Drive no Colab.
-
 ```python
 from google.colab import drive
 import pandas as pd
 
-# Montando o Google Drive
+# Montar o Google Drive
 drive.mount('/content/drive')
 
-# Caminho até o arquivo salvo no seu Google Drive
+# Ler o arquivo salvo no Drive
 df = pd.read_csv("/content/drive/MyDrive/dados_uc22/meu_dataset.csv")
-
-# Visualizar informações gerais
 df.info()
 ```
 
-📌 Observação: aqui o arquivo **fica salvo** no seu Drive.
- Mesmo que você feche o Colab, poderá acessá-lo na próxima vez.
+------
+
+### Etapa 3 – Comparação
+
+Responda em um parágrafo:
+
+1. Qual forma foi mais rápida para você?
+2. Qual delas é mais prática para um projeto longo?
+3. Se fosse trabalhar em grupo, qual usaria? Por quê?
 
 ------
 
-### 🔹 Etapa 3 – Comparação das Abordagens
-
-No seu caderno (ou em uma célula de texto no Colab), responda:
-
-1. Qual das duas formas foi mais rápida para você?
-2. Qual delas parece mais prática para **um projeto longo**?
-3. Você percebeu alguma diferença no código de leitura (`read_csv`)?
-4. Se fosse fazer uma análise em grupo, qual abordagem usaria? Justifique.
-
-------
-
-### 🔹 Etapa 4 – Reflexão Final
-
-📢 Escreva uma conclusão:
-
-> “No meu caso, preferi a abordagem ___ porque ___.
-> Aprendi que o Colab permite tanto uploads rápidos quanto o uso organizado de pastas no Google Drive.”
-
-------
-
-✅ Com isso, você já domina as **duas principais formas de importar dados no Colab**!
- Esse conhecimento será usado em **todo o restante do trimestre**.
-
-------
-
-## 💬 Atividade Teórica – Responda no caderno
+## 📝 Atividade Teórica – Google Docs
 
 1. O que são dados abertos? Cite um exemplo do cotidiano.
 2. Qual a diferença entre **int** e **float**?
@@ -227,16 +188,33 @@ No seu caderno (ou em uma célula de texto no Colab), responda:
 4. Explique por que é importante ter **dados padronizados**.
 5. Se você fosse criar um dataset Pokémon, que colunas colocaria nele?
 
+📌 **Instruções:**
+
+- Responda em um **Google Docs**.
+- Nomeie o arquivo: `UC22_Aula01_Teoria_NomeDoAluno`.
+- Entregue no **Google Sala de Aula**.
+
 ------
 
-## 🧩 Atividade Prática – Explorando CSV
+## 💻 Atividade Prática – Google Colab
 
 📌 Pegue o arquivo `pokemons.csv` (fornecido pelo professor).
 
-1. Abra no **Bloco de Notas** → observe as vírgulas e acentos.
+1. Abra no **Bloco de Notas** → observe vírgulas e acentos.
 2. Abra no **Excel/Google Planilhas** → confira colunas e linhas.
-3. Abra no **Google Colab** com Pandas → rode `df.info()` e `df.shape()`.
-4. Compare as visualizações → o que mudou?
+3. Abra no **Google Colab com Pandas** → rode:
+
+```python
+df.info()
+df.shape
+```
+
+1. Compare as visualizações → o que mudou?
+
+📌 **Instruções:**
+
+- Salve como: `UC22_Aula01_Pratica_NomeDoAluno.ipynb`.
+- Entregue no **Google Sala de Aula**.
 
 ------
 
@@ -249,11 +227,17 @@ No seu caderno (ou em uma célula de texto no Colab), responda:
 - Como abrir datasets `.csv` em diferentes ferramentas.
 - Como preparar o ambiente no **Google Colab**.
 
-🔮 **Na próxima aula**: vamos aprofundar na **estrutura dos arquivos CSV** e entender como os dados são armazenados, seus problemas e variações.
+🔮 **Na próxima aula**: vamos aprofundar na **estrutura dos arquivos CSV** e entender problemas comuns (acentuação, separadores e cabeçalhos).
 
 ------
 
-#### [🏠 Voltar ao Início](./README.md)
+## 📌 Entrega obrigatória no Google Sala de Aula
 
-#### [⏩ Próxima Aula: Estrutura e Problemas em Arquivos CSV](./aula02.md)
+- Arquivo **Google Docs** com respostas teóricas.
+- Arquivo **Google Colab (.ipynb)** com exercícios práticos.
 
+------
+
+#### 🏠 Voltar ao Início
+
+#### ⏩ Próxima Aula: Estrutura e Problemas em Arquivos CSV
