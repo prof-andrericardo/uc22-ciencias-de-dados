@@ -1,0 +1,201 @@
+Nome,Tipo 1,Tipo 2,HP,Ataque,Defesa,Ataque Especial,Defesa Especial,Velocidade,Habilidade,Habilidade Oculta,Natureza,Grupo de Ovo,Altura (m),Peso (kg),Taxa de Captura,Gênero,Método de Evolução,Shiny,Mega Evolução/Forma Regional
+Bulbasaur,Gelo,,88,66,44,144,77,52,Nado Rápido,Nervos de Aço,Modest,Human-Like,0.97,51.1,45,Masculino,Nível,Não,Nenhuma
+Ivysaur,Dragão,,61,81,86,56,84,78,Chuva,,Impish,Flying,1.09,32.3,180,Feminino,Nível,Sim,Nenhuma
+Venusaur,Aço,,103,96,68,45,96,58,Poder Solar,Regeneração,Quiet,Water 1,1.79,28.9,90,Masculino,Nível,Não,Forma Regional - Galar
+Charmander,Fada,,133,117,82,92,51,48,Absorver Água,Luz Filtrante,Naive,Human-Like,0.21,17.5,3,Masculino,Pedra,Não,Nenhuma
+Charmeleon,Inseto,Voador,52,81,124,46,108,131,Chuva,Adaptação,Serious,Undiscovered,1.63,59.7,45,Masculino,Não evolui,Não,Nenhuma
+Charizard,Fantasma,Gelo,140,54,56,92,106,148,Nado Rápido,,Impish,Dragon,1.79,44.2,90,Masculino,Não evolui,Não,Nenhuma
+Squirtle,Normal,Gelo,68,98,39,49,83,42,Cura Natural,,Hasty,Ditto,0.83,22.0,45,Feminino,Nível,Sim,Nenhuma
+Wartortle,Psíquico,Fogo,56,98,78,90,77,72,Pressão,Tecnicista,Quiet,Amorphous,2.1,60.4,45,Feminino,Nível,Não,Nenhuma
+Blastoise,Normal,,63,96,138,82,67,105,Nado Rápido,Nervos de Aço,Impish,Bug,1.2,54.3,60,Feminino,Nível,Não,Nenhuma
+Caterpie,Inseto,Dragão,80,124,31,85,87,103,Vigor,Nervos de Aço,Bashful,Water 2,1.1,77.7,120,Feminino,Felicidade,Não ,Nenhuma
+Metapod,Grama,Elétrico,71,26,84,79,40,79,Enxame,,Quirky,Monster,1.74,383.3,90,Masculino,Nível,Não,Nenhuma
+Butterfree,Lutador,,75,128,72,161,98,54,Balança,,Quirky,Monster,1.29,38.6,45,Feminino,Pedra,Não,Nenhuma
+Weedle,Sombrio,,53,39,66,105,86,42,Chuva,,Serious,Field,0.39,18.2,45,Masculino,Troca,Não,Nenhuma
+Kakuna,Gelo,Grama,91,41,44,94,75,59,Filtro,,Serious,Ditto,0.21,164.1,90,Masculino,Não evolui,Não,Nenhuma
+Beedrill,Dragão,Terra,83,28,108,64,116,75,Isolante,,Careful,Bug,0.38,6.7,90,Masculino,Não evolui,Não,Nenhuma
+Pidgey,PSÍQUICO,Água,36,74,85,97,144,86,Cura Natural,,Timid,Ditto,0.47,39.8,25,Masculino,Não evolui,Não,Nenhuma
+Pidgeotto,Pedra,,74,57,41,76,20,40,Foco Interno,,Jolly,Water 1,1.3,60.6,60,Feminino,Nível,Não ,Forma Regional - Galar
+Pidgeot,PSÍQUICO,Água,128,26,75,97,88,61,Cura Venenosa,,Hasty,Amorphous,0.43,17.1,60,Feminino,Nível,Não,Nenhuma
+Rattata,Elétrico,Inseto,121,135,61,91,94,34,Cura Natural,Luz Filtrante,Hardy,Fairy,1.01,40.8,180,Feminino,Troca,Não,Mega Y
+Raticate,DRAGÃO,Voador,64,114,83,88,39,5,Pele Seca,Nervos de Aço,Quiet,Mineral,0.29,41.1,180,Feminino,Não evolui,Não,Forma Regional - Hisui
+Spearow,SOMBRIO,,99,80,55,70,92,63,Corpo Chama,,Calm,Fairy,0.29,24.4,60,Feminino,Não evolui,Não,Nenhuma
+Fearow,Lutador,Água,67,98,85,104,119,51,Balança,,Impish,Dragon,0.75,13.0,60,Masculino,Nível,Não,Nenhuma
+Ekans,Lutador,Inseto,96,119,63,37,54,78,Pressão,Parede de Gelo,Quiet,Grass,1.35,72.7,255,Masculino,Nível,Não,Nenhuma
+Arbok,Voador,Fada,128,61,106,85,145,55,Enxame,Regeneração,Careful,Amorphous,0.77,16.4,60,Masculino,Nível,Sim,Nenhuma
+Pikachu,Fantasma,,93,129,101,76,77,71,Pressão,Multiescamas,Relaxed,Flying,0.87,104.5,120,Feminino,Não evolui,Sim,Nenhuma
+Raichu,FADA,Veneno,115,91,84,104,107,104,Balança,Audácia,Docile,Monster,1.38,50.0,45,Feminino,Nível,Não ,Nenhuma
+Sandshrew,Fogo,,62,111,63,156,121,68,Filtro,,Impish,Field,1.44,34.5,90,Feminino,Nível,Não,Nenhuma
+Sandslash,Terra,,68,101,137,86,74,122,Cura Venenosa,Protosíntese,Bold,Water 1,0.23,86.9,45,Feminino,Nível,Não,Nenhuma
+Nidoran♀,Fada,Dragão,47,99,102,71,141,70,Graxa,,Bold,Water 1,0.73,21.2,25,Masculino,Nível,Não,Nenhuma
+Nidorina,Sombrio,Voador,73,57,83,139,68,48,Cura Venenosa,Multiescamas,Careful,Monster,1.42,34.1,60,Sem gênero,Não evolui,Não ,Nenhuma
+Nidoqueen,Fogo,,89,94,172,113,76,51,Chuva,Audácia,Bold,Ditto,0.85,13.9,25,Feminino,Nível,Não,Nenhuma
+Nidoran♂,Fantasma,,114,101,142,121,19,112,Cura Natural,Ansiedade,Modest,Dragon,0.32,52.0,25,Masculino,Não evolui,Não,Nenhuma
+Nidorino,Voador,Lutador,79,112,79,93,104,97,Intimidador,,Careful,Amorphous,1.95,18.0,45,Masculino,Nível,Não,Nenhuma
+Nidoking,AÇO,,69,89,102,80,106,29,Poder Solar,Ansiedade,Bold,Fairy,0.32,39.8,90,Masculino,Não evolui,Sim,Nenhuma
+Clefairy,Aço,,30,54,85,82,94,127,Enxame,,Bold,Undiscovered,1.66,48.4,45,Masculino,Nível,Não,Nenhuma
+Clefable,Inseto,Lutador,119,73,87,104,10,125,Pressão,Multiescamas,Serious,Fairy,0.78,34.6,45,Feminino,Nível,Não,Nenhuma
+Vulpix,Inseto,Fada,74,116,94,127,109,101,Pressão,Parede de Gelo,Modest,Amorphous,2.45,32.1,25,Feminino,Nível,Não,Nenhuma
+Ninetales,Aço,,64,68,108,109,121,110,Nado Rápido,,Bold,Bug,0.1,109.6,60,Sem gênero,Não evolui,Não,Nenhuma
+Jigglypuff,ÁGUA,Psíquico,77,106,94,86,56,94,Vigor,Competitivo,Naive,Field,0.86,22.3,45,Feminino,Nível,Não,Nenhuma
+Wigglytuff,Aço,Voador,55,104,94,119,73,51,Coração de Ferro,,Impish,Water 1,1.89,32.1,90,Masculino,Felicidade,Não,Nenhuma
+Zubat,Terra,Água,102,29,49,95,56,75,Enxame,Multiescamas,Hardy,Undiscovered,0.75,56.8,120,Masculino,Não evolui,Sim,Nenhuma
+Golbat,Lutador,,100,54,152,138,63,5,Balança,Multiescamas,Careful,Grass,1.38,28.6,45,Feminino,Nível,Não,Forma Regional - Hisui
+Oddish,Veneno,,105,19,56,61,157,84,Isolante,,Adamant,Ditto,1.05,27.6,45,Feminino,Troca,Não,Nenhuma
+Gloom,PEDRA,Aço,89,75,89,42,107,74,Isolante,,Relaxed,Amorphous,0.98,79.1,15,Feminino,Nível,Não,Nenhuma
+Vileplume,Psíquico,Fantasma,99,84,69,120,144,100,Levitar,Parede de Gelo,Relaxed,Undiscovered,1.31,43.7,45,Masculino,Não evolui,Não,Nenhuma
+Paras,Elétrico,,71,64,134,79,53,52,Enxame,Audácia,Impish,Amorphous,1.19,63.1,60,Feminino,Não evolui,Não,Nenhuma
+Parasect,Elétrico,,95,81,102,125,76,96,Cura Natural,Ansiedade,Jolly,Bug,1.5,26.5,120,Não especificado,Não evolui,Não,Nenhuma
+Venonat,VOADOR,Veneno,116,63,51,149,109,62,Cura Venenosa,Ansiedade,Quirky,Ditto,2.05,36.4,90,Feminino,Nível,Não ,Nenhuma
+Venomoth,Veneno,,85,91,88,41,47,111,Pele Seca,Quark Drive,Impish,Water 2,1.96,21.9,15,Feminino,Não evolui,Não,Nenhuma
+Diglett,PEDRA,,22,46,120,89,141,94,Absorver Água,,Bashful,Grass,0.36,52.9,3,Feminino,Não evolui,Não,Nenhuma
+Dugtrio,GRAMA,Aço,105,64,64,10,107,89,Isolante,Audácia,Impish,Bug,0.69,62.5,25,Masculino,Nível,Não,Nenhuma
+Meowth,Fada,Sombrio,51,76,96,34,104,86,Intimidador,Regeneração,Jolly,Dragon,2.1,25.4,45,Feminino,Não evolui,Sim ,Nenhuma
+Persian,Voador,Grama,86,100,42,97,155,94,Cura Venenosa,Ansiedade,Timid,Water 1,1.42,33.0,120,Feminino,Nível,Não,Nenhuma
+Psyduck,Elétrico,,59,73,88,90,99,140,Intimidador,Parede de Gelo,Careful,Dragon,1.28,139.2,25,Masculino,Nível,Não,Mega X
+Golduck,Lutador,,97,86,135,104,113,83,Pressão,,Bashful,Human-Like,0.85,22.7,45,Masculino,Não evolui,Não,Nenhuma
+Mankey,Terra,Pedra,65,59,59,94,92,92,Corpo Chama,Quark Drive,Quirky,Mineral,0.35,60.2,90,Feminino,Pedra,Não,Nenhuma
+Primeape,INSETO,Fogo,105,41,85,92,74,67,Cura Venenosa,,Quirky,Amorphous,0.81,32.0,15,Feminino,Locação Especial,Não,Nenhuma
+Growlithe,Grama,,59,79,66,113,62,101,Intimidador,Regeneração,Quirky,Water 2,0.44,28.7,120,Feminino,Não evolui,Não,Nenhuma
+Arcanine,Normal,Veneno,85,92,69,126,46,44,Poder Solar,Nervos de Aço,Quirky,Mineral,1.65,131.2,60,Feminino,Não evolui,Não,Nenhuma
+Poliwag,Lutador,,86,103,51,89,117,94,Filtro,,Quiet,Bug,0.35,25.7,60,Masculino,Nível,Não,Nenhuma
+Poliwhirl,Normal,,72,49,51,128,116,102,Poder Solar,,Relaxed,Field,0.87,47.0,25,Feminino,Não evolui,Não,Nenhuma
+Poliwrath,Água,,53,86,71,77,74,58,Intimidador,,Docile,Amorphous,0.9,52.4,45,Masculino,Nível,Não,Nenhuma
+Abra,Terra,,36,110,117,96,69,152,Coração de Ferro,,Jolly,Field,1.16,95.0,90,Feminino,Pedra,Não ,Nenhuma
+Kadabra,Psíquico,Sombrio,36,116,130,73,74,111,Balança,Parede de Gelo,Bold,Human-Like,1.33,36.5,45,Feminino,Não evolui,Sim,Nenhuma
+Alakazam,Psíquico,Pedra,44,41,86,111,130,66,Nado Rápido,,Modest,Bug,0.16,20.9,90,Sem gênero,Não evolui,Não,Nenhuma
+Machop,Aço,Lutador,116,38,38,123,10,91,Poder Solar,Parede de Gelo,Serious,Undiscovered,0.1,40.0,90,Masculino,Nível,Não,Nenhuma
+Machoke,Pedra,Água,63,95,78,94,82,41,Foco Interno,,Naive,Monster,2.83,12.1,180,Masculino,Nível,Não,Nenhuma
+Machamp,Aço,,105,82,90,118,70,91,Graxa,,Naive,Flying,1.21,14.5,180,Masculino,Nível,Sim,Nenhuma
+Bellsprout,Veneno,,97,95,109,10,142,75,Absorver Água,Tecnicista,Hasty,Ditto,1.49,19.7,60,Feminino,Não evolui,Não,Nenhuma
+Weepinbell,Normal,,135,83,86,111,113,115,Balança,,Docile,Flying,1.89,141.5,45,Masculino,Nível,Não ,Mega X
+Victreebel,Fada,,68,69,89,56,107,75,Absorver Água,,Hardy,Dragon,0.27,16.1,90,Masculino,Nível,Não,Nenhuma
+Tentacool,Água,Veneno,67,83,44,89,118,100,Vigor,Ansiedade,Careful,Water 1,0.98,32.6,45,Masculino,Nível,Não,Nenhuma
+Tentacruel,Aço,Terra,96,114,119,82,107,75,Isolante,Quark Drive,Serious,Bug,1.17,51.5,25,Feminino,Nível,Não,Nenhuma
+Geodude,Aço,,54,89,58,126,48,81,Corpo Chama,Luz Filtrante,Quirky,Amorphous,0.72,29.4,120,Masculino,Nível,Não,Nenhuma
+Graveler,Voador,,48,99,102,72,89,125,Cura Natural,Competitivo,Jolly,Ditto,2.02,52.2,120,Masculino,Nível,Não ,Nenhuma
+Golem,Psíquico,,70,81,81,75,108,146,Foco Interno,Audácia,Modest,Water 2,2.47,69.3,60,Masculino,Pedra,Sim ,Nenhuma
+Ponyta,Sombrio,Terra,34,101,46,58,62,74,Cura Venenosa,,Bold,Ditto,1.46,9.5,120,Feminino,Nível,Não,Nenhuma
+Rapidash,Terra,Fantasma,92,143,72,131,82,59,Nado Rápido,,Serious,Mineral,1.07,12.8,60,Feminino,Não evolui,Não,Forma Regional - Hisui
+Slowpoke,Grama,,61,42,82,103,82,116,Poder Solar,Competitivo,Impish,Monster,1.41,238.1,45,Masculino,Não evolui,Não,Nenhuma
+Slowbro,Voador,Inseto,107,86,85,77,90,122,Cura Natural,Protosíntese,Serious,Monster,1.36,30.6,60,Feminino,Troca,Não,Nenhuma
+Magnemite,Sombrio,Grama,88,58,80,79,112,94,Pressão,,Docile,Monster,2.27,51.7,45,Feminino,Nível,Não,Nenhuma
+Magneton,Lutador,,35,86,87,50,101,66,Coração de Ferro,,Bold,Water 2,0.91,20.5,60,Feminino,Nível,Não,Nenhuma
+Farfetch'd,Voador,Inseto,57,110,96,52,125,120,Enxame,,Impish,Ditto,1.96,10.1,60,Masculino,Não evolui,Não,Nenhuma
+Doduo,Grama,Aço,64,50,73,48,91,121,Levitar,,Hardy,Flying,1.59,78.3,45,Masculino,Não evolui,Não,Nenhuma
+Dodrio,NORMAL,,45,83,115,54,10,66,Poder Solar,Ansiedade,Hardy,Monster,2.1,13.5,60,Masculino,Troca,Sim,Mega Y
+Seel,Normal,,51,20,90,72,110,76,Cura Natural,,Adamant,Fairy,1.14,35.6,25,Feminino,Não evolui,Não,Nenhuma
+Dewgong,PEDRA,,55,16,47,26,117,85,Enxame,Parede de Gelo,Serious,Ditto,1.42,40.3,45,Não especificado,Nível,Sim,Nenhuma
+Grimer,Elétrico,,86,149,60,107,81,88,Pele Seca,,Modest,Dragon,0.72,38.9,60,Feminino,Nível,Não,Nenhuma
+Muk,Psíquico,Aço,44,119,69,96,143,100,Enxame,,Docile,Fairy,2.09,17.5,45,Feminino,Pedra,Não,Nenhuma
+Shellder,Veneno,Psíquico,82,136,87,158,96,27,Levitar,,Bold,Human-Like,1.12,32.6,45,Feminino,Locação Especial,Não,Nenhuma
+Cloyster,Inseto,,102,59,92,115,50,124,Vigor,,Hasty,Amorphous,1.52,42.8,3,Feminino,Pedra,Não,Nenhuma
+Gastly,TERRA,,118,73,86,107,37,27,Enxame,Ansiedade,Calm,Undiscovered,2.12,20.9,25,Feminino,Nível,Não,Nenhuma
+Haunter,Fada,Elétrico,74,65,128,126,50,91,Absorver Água,,Calm,Flying,1.36,108.0,60,Masculino,Nível,Não,Nenhuma
+Gengar,Dragão,,79,102,135,47,69,87,Poder Solar,,Relaxed,Fairy,2.62,113.8,45,Masculino,Nível,Sim,Nenhuma
+Onix,Fantasma,,60,45,37,10,100,76,Nado Rápido,Regeneração,Impish,Fairy,0.1,29.1,90,Feminino,Não evolui,Não,Nenhuma
+Drowzee,Elétrico,Fantasma,51,56,47,21,65,101,Vigor,Competitivo,Relaxed,Bug,2.04,168.5,45,Masculino,Pedra,Não,Nenhuma
+Hypno,NORMAL,,92,87,76,61,106,52,Graxa,Luz Filtrante,Bold,Human-Like,0.41,14.0,180,Não especificado,Não evolui,Sim,Nenhuma
+Krabby,INSETO,Água,49,86,92,100,85,68,Cura Venenosa,,Docile,Field,1.13,83.1,25,Feminino,Não evolui,Não,Mega X
+Kingler,GELO,,75,63,74,121,60,56,Nado Rápido,,Serious,Human-Like,1.55,16.9,45,Masculino,Felicidade,Não,Nenhuma
+Voltorb,Dragão,Grama,77,111,50,79,111,95,Graxa,Adaptação,Relaxed,Human-Like,2.19,18.8,45,Masculino,Nível,Não ,Mega Y
+Electrode,Veneno,Terra,58,115,69,67,51,92,Nado Rápido,,Docile,Field,0.7,82.6,255,Feminino,Não evolui,Não,Nenhuma
+Exeggcute,Terra,,53,95,61,88,64,42,Chuva,Audácia,Calm,Water 1,1.5,23.5,255,Sem gênero,Nível,Não,Nenhuma
+Exeggutor,Grama,,34,89,62,129,87,92,Graxa,,Bashful,Field,1.86,54.3,120,Masculino,Não evolui,Não,Nenhuma
+Cubone,Grama,,64,100,64,103,121,110,Isolante,Adaptação,Timid,Mineral,2.02,11.5,180,Feminino,Pedra,Não,Nenhuma
+Marowak,Veneno,,65,50,40,62,51,70,Balança,,Docile,Dragon,0.93,30.8,90,Sem gênero,Nível,Não,Nenhuma
+Hitmonlee,Grama,,97,69,99,68,90,60,Nado Rápido,Audácia,Adamant,Human-Like,1.88,21.3,15,Masculino,Pedra,Não,Nenhuma
+Hitmonchan,Lutador,,45,46,117,83,63,29,Coração de Ferro,,Bold,Bug,1.26,9.8,90,Feminino,Não evolui,Não ,Nenhuma
+Lickitung,Água,Fada,46,81,50,65,122,71,Balança,Luz Filtrante,Jolly,Field,0.67,15.7,60,Não especificado,Nível,Não,Mega Y
+Koffing,Veneno,Psíquico,95,91,74,32,37,5,Chuva,Nervos de Aço,Bashful,Grass,3.04,18.9,60,Feminino,Não evolui,Não,Nenhuma
+Weezing,ÁGUA,Veneno,62,44,62,105,83,119,Levitar,,Impish,Grass,1.09,36.3,60,Sem gênero,Não evolui,Não,Nenhuma
+Rhyhorn,Lutador,,94,130,107,63,84,61,Graxa,Regeneração,Adamant,Bug,0.68,25.9,60,Feminino,Não evolui,Não,Nenhuma
+Rhydon,Gelo,Inseto,95,94,81,156,70,70,Poder Solar,Tecnicista,Calm,Water 2,0.5,36.1,3,Masculino,Nível,Não,Nenhuma
+Chansey,Pedra,Veneno,70,40,111,69,57,74,Vigor,Ansiedade,Quiet,Water 1,0.65,5.9,90,Feminino,Não evolui,Não,Nenhuma
+Tangela,Elétrico,Lutador,43,86,67,83,86,16,Graxa,,Relaxed,Dragon,0.12,17.4,90,Feminino,Nível,Não,Forma Regional - Hisui
+Kangaskhan,ÁGUA,Veneno,73,50,80,65,76,92,Filtro,Quark Drive,Hasty,Water 2,0.1,24.9,180,Masculino,Ataque+Item,Não,Mega Y
+Horsea,Elétrico,,53,87,47,89,158,25,Absorver Água,,Timid,Amorphous,1.68,65.3,45,Feminino,Nível,Não,Nenhuma
+Seadra,Elétrico,Grama,83,74,98,60,52,111,Balança,Adaptação,Careful,Ditto,1.62,60.9,180,Masculino,Nível,Não,Nenhuma
+Goldeen,Aço,,82,73,88,69,98,68,Corpo Chama,,Bashful,Ditto,2.09,31.8,90,Masculino,Nível,Não,Nenhuma
+Seaking,Aço,,69,105,96,89,14,28,Isolante,,Jolly,Fairy,2.12,28.1,120,Masculino,Felicidade,Não,Nenhuma
+Staryu,SOMBRIO,Dragão,130,98,112,94,116,53,Isolante,,Careful,Amorphous,0.93,65.7,3,Feminino,Troca,Não,Nenhuma
+Starmie,Lutador,,86,99,90,100,73,53,Intimidador,Regeneração,Calm,Dragon,0.75,25.9,120,Sem gênero,Não evolui,Não,Nenhuma
+Mr. Mime,FADA,,71,36,93,57,46,99,Intimidador,Competitivo,Docile,Human-Like,1.88,28.4,45,Feminino,Não evolui,Não ,Forma Regional - Hisui
+Scyther,Dragão,,71,117,86,118,92,146,Graxa,,Serious,Field,0.59,37.9,180,Feminino,Nível,Não,Mega Y
+Jynx,Fogo,,58,38,101,107,106,86,Graxa,Parede de Gelo,Bold,Ditto,0.7,81.5,25,Masculino,Nível,Não,Nenhuma
+Electabuzz,Elétrico,,72,104,98,74,57,90,Pressão,,Hasty,Fairy,1.69,24.8,45,Masculino,Não evolui,Não,Forma Regional - Galar
+Magmar,Voador,Fantasma,20,84,77,113,88,54,Chuva,Protosíntese,Impish,Mineral,1.45,11.5,60,Feminino,Nível,Não,Nenhuma
+Pinsir,Água,,91,80,91,62,69,138,Pressão,,Relaxed,Water 2,2.0,50.1,120,Feminino,Não evolui,Não,Nenhuma
+Tauros,Terra,Veneno,69,55,10,74,152,103,Coração de Ferro,,Calm,Monster,2.04,18.6,120,Feminino,Ataque+Item,Não ,Nenhuma
+Magikarp,Aço,,66,67,83,126,42,35,Pele Seca,,Jolly,Grass,1.77,56.9,60,Masculino,Nível,Sim,Nenhuma
+Gyarados,Fogo,,57,83,105,133,143,92,Coração de Ferro,,Naive,Monster,0.84,20.5,25,Feminino,Pedra,Não ,Nenhuma
+Lapras,LUTADOR,,114,54,55,42,72,93,Isolante,Tecnicista,Quirky,Water 1,0.54,29.2,180,Feminino,Não evolui,Não,Nenhuma
+Ditto,PEDRA,,42,90,148,33,78,113,Absorver Água,Multiescamas,Quirky,Dragon,1.61,44.6,45,Não especificado,Não evolui,Não ,Forma Regional - Hisui
+Eevee,Psíquico,Terra,79,86,96,62,80,97,Intimidador,,Careful,Grass,1.59,50.6,45,Masculino,Nível,Não,Forma Regional - Galar
+Vaporeon,Veneno,,67,84,42,98,106,66,Enxame,,Bold,Dragon,1.29,22.4,90,Masculino,Nível,Não,Forma Regional - Alola
+Jolteon,Água,Lutador,41,36,87,84,83,97,Filtro,,Hardy,Bug,2.17,7.1,60,Feminino,Felicidade,Não,Forma Regional - Hisui
+Flareon,Inseto,,54,107,47,101,130,64,Balança,Protosíntese,Hardy,Ditto,1.92,29.3,120,Masculino,Pedra,Não,Mega Y
+Porygon,Veneno,Lutador,61,54,69,93,80,101,Chuva,Quark Drive,Careful,Grass,1.93,60.1,60,Feminino,Nível,Não ,Nenhuma
+Omanyte,Fantasma,Voador,58,86,47,47,100,45,Isolante,Luz Filtrante,Bold,Mineral,0.7,15.8,25,Masculino,Locação Especial,Não,Nenhuma
+Omastar,Lutador,,77,60,55,95,92,122,Coração de Ferro,,Quirky,Bug,1.4,49.1,25,Feminino,Pedra,Não,Nenhuma
+Kabuto,Dragão,,88,111,70,133,86,94,Levitar,,Quirky,Water 1,0.92,51.0,45,Masculino,Ataque+Item,Não,Nenhuma
+Kabutops,Psíquico,,115,20,74,21,10,84,Nado Rápido,Nervos de Aço,Relaxed,Bug,1.48,25.6,90,Feminino,Não evolui,Não,Nenhuma
+Aerodactyl,Terra,,120,86,72,88,87,121,Corpo Chama,Quark Drive,Hasty,Mineral,0.96,16.6,45,Feminino,Nível,Não,Nenhuma
+Snorlax,GRAMA,,75,88,60,65,43,66,Corpo Chama,,Adamant,Flying,0.86,113.0,15,Feminino,Nível,Não ,Nenhuma
+Articuno,PEDRA,Fada,79,83,101,105,87,69,Graxa,,Naive,Mineral,1.28,26.7,255,Masculino,Nível,Não,Nenhuma
+Zapdos,Veneno,,28,57,35,60,77,36,Pele Seca,,Hasty,Field,1.36,45.5,15,Masculino,Ataque+Item,Não,Nenhuma
+Moltres,Psíquico,,77,58,121,108,110,19,Vigor,,Bashful,Field,0.51,15.9,90,Feminino,Felicidade,Não,Nenhuma
+Dratini,Aço,Dragão,38,127,84,64,98,75,Vigor,Multiescamas,Hasty,Bug,1.83,106.4,90,Masculino,Nível,Não,Nenhuma
+Dragonair,Veneno,Aço,64,36,132,121,41,100,Absorver Água,Multiescamas,Serious,Bug,0.81,16.5,45,Masculino,Nível,Não,Nenhuma
+Dragonite,Normal,,38,51,71,106,25,78,Filtro,Parede de Gelo,Adamant,Fairy,1.41,130.3,15,Masculino,Felicidade,Não,Nenhuma
+Mewtwo,DRAGÃO,,99,77,111,93,177,78,Coração de Ferro,,Modest,Field,1.63,97.0,45,Feminino,Nível,Não ,Nenhuma
+Mew,Aço,Grama,118,54,59,65,96,48,Levitar,,Serious,Bug,2.25,27.3,3,Sem gênero,Nível,Não,Nenhuma
+Chikorita,Fantasma,Pedra,46,44,101,80,111,15,Chuva,Audácia,Bold,Amorphous,1.07,62.9,60,Masculino,Não evolui,Não,Nenhuma
+Bayleef,Fantasma,,69,12,127,66,82,113,Corpo Chama,Parede de Gelo,Adamant,Undiscovered,1.1,46.5,60,Masculino,Não evolui,Não,Nenhuma
+Meganium,Sombrio,Fada,40,68,110,142,32,23,Balança,,Careful,Amorphous,1.3,11.7,60,Feminino,Nível,Não,Nenhuma
+Cyndaquil,Dragão,,72,106,80,91,88,67,Chuva,Multiescamas,Impish,Flying,1.68,96.3,120,Feminino,Nível,Não,Nenhuma
+Quilava,Fada,Voador,106,88,90,90,17,74,Vigor,Nervos de Aço,Modest,Mineral,1.24,75.1,15,Masculino,Troca,Não,Nenhuma
+Typhlosion,Lutador,,96,17,61,86,116,65,Isolante,Quark Drive,Hasty,Grass,0.77,30.7,90,Feminino,Pedra,Não,Nenhuma
+Totodile,Normal,,91,50,73,79,97,100,Isolante,Regeneração,Careful,Mineral,2.28,46.1,120,Feminino,Nível,Não,Nenhuma
+Croconaw,Psíquico,,63,70,88,93,85,89,Chuva,Ansiedade,Jolly,Amorphous,2.61,80.5,45,Feminino,Pedra,Não,Nenhuma
+Feraligatr,Lutador,,98,110,142,122,75,47,Graxa,,Quirky,Undiscovered,0.54,67.5,180,Feminino,Nível,Não,Nenhuma
+Sentret,Sombrio,Elétrico,90,100,90,79,99,100,Corpo Chama,Competitivo,Adamant,Flying,1.07,49.1,90,Masculino,Nível,Não,Mega Y
+Furret,Lutador,,122,63,87,68,97,106,Poder Solar,Regeneração,Quiet,Dragon,3.01,12.9,45,Masculino,Ataque+Item,Não ,Nenhuma
+Hoothoot,Normal,Dragão,49,118,81,46,27,34,Balança,,Relaxed,Water 1,0.73,112.8,45,Feminino,Felicidade,Não,Nenhuma
+Noctowl,Pedra,,20,44,114,79,101,78,Filtro,Quark Drive,Relaxed,Flying,0.94,37.4,90,Não especificado,Não evolui,Não,Nenhuma
+Ledyba,Gelo,,89,58,139,64,69,90,Graxa,,Relaxed,Ditto,2.63,22.9,180,Feminino,Ataque+Item,Não,Nenhuma
+Ledian,Dragão,Elétrico,79,75,85,54,68,85,Cura Venenosa,,Bashful,Undiscovered,0.51,54.5,120,Feminino,Não evolui,Não,Nenhuma
+Spinarak,VOADOR,,82,87,115,76,74,65,Levitar,Protosíntese,Quirky,Monster,1.16,18.2,15,Masculino,Não evolui,Não,Nenhuma
+Ariados,Inseto,Fada,32,71,61,111,49,57,Foco Interno,Multiescamas,Jolly,Grass,1.9,110.0,45,Feminino,Pedra,Não,Nenhuma
+Crobat,Psíquico,Veneno,82,83,126,57,54,38,Absorver Água,Tecnicista,Quiet,Human-Like,0.54,53.1,15,Masculino,Nível,Não,Forma Regional - Galar
+Pichu,VENENO,,93,143,112,118,86,72,Pele Seca,Regeneração,Careful,Grass,2.51,35.1,60,Feminino,Nível,Não,Forma Regional - Alola
+Cleffa,Fantasma,,80,52,62,54,61,63,Intimidador,,Calm,Human-Like,0.1,69.8,120,Masculino,Felicidade,Não,Nenhuma
+Igglybuff,PEDRA,Inseto,78,34,155,98,100,120,Foco Interno,,Hardy,Monster,1.2,12.8,60,Masculino,Nível,Não,Nenhuma
+Togepi,Sombrio,,93,114,121,98,136,83,Absorver Água,,Docile,Undiscovered,2.72,26.4,120,Masculino,Nível,Não ,Nenhuma
+Togetic,Inseto,,82,57,101,66,99,102,Pele Seca,Protosíntese,Adamant,Grass,1.47,16.2,45,Masculino,Nível,Não,Nenhuma
+Natu,Normal,,46,103,113,85,36,48,Absorver Água,,Careful,Mineral,0.87,8.9,45,Masculino,Nível,Sim,Nenhuma
+Xatu,DRAGÃO,,59,57,121,129,14,82,Cura Venenosa,Ansiedade,Hardy,Bug,1.63,157.3,45,Masculino,Pedra,Não,Nenhuma
+Mareep,Água,Dragão,63,50,47,88,78,94,Intimidador,Competitivo,Hasty,Mineral,1.88,63.6,90,Sem gênero,Troca,Não,Nenhuma
+Flaaffy,Aço,,65,102,101,93,118,58,Nado Rápido,Luz Filtrante,Bashful,Monster,2.47,23.4,180,Feminino,Troca,Não ,Nenhuma
+Ampharos,Água,Fada,94,126,25,121,67,76,Corpo Chama,,Jolly,Dragon,2.64,63.3,120,Masculino,Nível,Sim,Nenhuma
+Bellossom,Pedra,Terra,112,103,82,73,51,82,Absorver Água,,Naive,Fairy,1.25,47.5,45,Masculino,Não evolui,Não,Nenhuma
+Marill,Lutador,,48,91,99,89,72,84,Chuva,Competitivo,Serious,Monster,0.55,19.9,25,Feminino,Nível,Não,Nenhuma
+Azumarill,AÇO,Fada,64,119,23,68,85,93,Intimidador,Adaptação,Calm,Field,2.13,113.1,45,Sem gênero,Troca,Não,Nenhuma
+Sudowoodo,Aço,,79,99,73,61,14,114,Pele Seca,Competitivo,Quirky,Fairy,0.97,26.3,60,Masculino,Nível,Não,Nenhuma
+Politoed,AÇO,Lutador,82,75,77,64,34,89,Isolante,,Naive,Fairy,1.55,27.0,180,Sem gênero,Nível,Não,Nenhuma
+Hoppip,Inseto,Pedra,62,125,108,75,87,68,Poder Solar,Tecnicista,Serious,Human-Like,0.1,44.2,180,Masculino,Felicidade,Não,Nenhuma
+Skiploom,Normal,,72,97,54,118,111,97,Pressão,Luz Filtrante,Relaxed,Grass,2.45,78.0,90,Masculino,Felicidade,Não,Nenhuma
+Jumpluff,Aço,Fogo,67,48,91,87,74,57,Vigor,Nervos de Aço,Bashful,Water 1,1.27,31.5,120,Sem gênero,Nível,Não ,Nenhuma
+Aipom,FOGO,,60,81,82,64,69,77,Pele Seca,Protosíntese,Relaxed,Amorphous,0.1,109.5,255,Feminino,Nível,Não,Nenhuma
+Sunkern,Gelo,Aço,45,75,59,47,68,73,Pele Seca,Parede de Gelo,Serious,Ditto,0.59,15.2,45,Feminino,Troca,Não,Nenhuma
+Sunflora,Aço,Sombrio,38,93,59,51,82,105,Poder Solar,Tecnicista,Bashful,Water 1,2.4,16.6,45,Feminino,Nível,Não ,Mega Y
+Yanma,ELÉTRICO,Gelo,94,50,95,109,68,115,Coração de Ferro,Ansiedade,Jolly,Grass,1.47,3.1,25,Masculino,Nível,Não,Nenhuma
+Wooper,Fogo,Normal,29,61,114,86,107,96,Nado Rápido,,Serious,Water 1,1.16,8.8,60,Masculino,Nível,Não,Nenhuma
+Quagsire,Inseto,,63,111,107,130,128,107,Poder Solar,Ansiedade,Hasty,Human-Like,2.11,12.0,90,Masculino,Nível,Não,Nenhuma
+Espeon,Veneno,Voador,35,135,115,94,78,116,Intimidador,Protosíntese,Jolly,Human-Like,2.91,29.9,120,Masculino,Troca,Não,Nenhuma
+Umbreon,GELO,,33,116,74,103,93,58,Nado Rápido,,Bashful,Grass,1.38,37.4,90,Feminino,Felicidade,Não ,Nenhuma
+Murkrow,Fada,Elétrico,54,73,63,77,98,88,Filtro,Protosíntese,Quirky,Mineral,1.24,2.6,45,Feminino,Nível,Não,Nenhuma
+Slowking,Normal,Grama,42,62,80,70,98,162,Poder Solar,,Modest,Grass,0.99,4.8,25,Masculino,Troca,Não ,Nenhuma
+Misdreavus,Fada,,106,95,43,47,130,51,Poder Solar,,Bashful,Water 2,2.24,18.0,90,Masculino,Nível,Não,Nenhuma
+Wobbuffet,Terra,Psíquico,63,32,111,90,71,72,Foco Interno,Nervos de Aço,Relaxed,Grass,0.7,35.5,15,Masculino,Nível,Não ,Nenhuma
+Girafarig,Inseto,,74,67,47,105,107,33,Pressão,,Careful,Dragon,0.81,83.9,180,Feminino,Pedra,Não,Forma Regional - Hisui
