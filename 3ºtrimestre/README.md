@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)
 ![Aulas](https://img.shields.io/badge/Aulas-20-blue?style=for-the-badge&logo=googleclassroom)
 ![Progresso](https://img.shields.io/badge/Progresso-0%25-lightgrey?style=for-the-badge&logo=progress)
-[![Abrir no Colab](https://img.shields.io/badge/Abrir%20no-Colab-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/prof-andrericardo/uc22-3oTrimestre/blob/main/UC22_3oTrimestre_Guia_Alunos.ipynb)
+[![Abrir no Colab](https://img.shields.io/badge/Abrir%20no-Colab-orange?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/prof-andrericardo/uc22-3ºTrimestre/blob/main/UC22_3ºTrimestre_Guia_Alunos.ipynb)
 
 ---
 
@@ -130,13 +130,13 @@ Os grupos serão divididos em temas:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/prof-andrericardo/uc22-3oTrimestre.git
-   cd uc22-3oTrimestre
+   git clone https://github.com/prof-andrericardo/uc22-3ºTrimestre.git
+   cd uc22-3ºTrimestre
    ```
 
 1. Abra no **Google Colab**:
 
-   - [Clique aqui para abrir o notebook dos alunos](https://colab.research.google.com/github/prof-andrericardo/uc22-3oTrimestre/blob/main/UC22_3oTrimestre_Guia_Alunos.ipynb)
+   - [Clique aqui para abrir o notebook dos alunos](https://colab.research.google.com/github/prof-andrericardo/uc22-3ºTrimestre/blob/main/UC22_3ºTrimestre_Guia_Alunos.ipynb)
    - Carregue o dataset `pokemons_pokedex.csv`
    - Resolva as **Missões Pokémon**
 
