@@ -99,7 +99,7 @@ A seguir, um **resumo detalhado** de cada módulo:
 
 ## 🎮 Projeto Final – Pokédex Científica
 
-📌 Dataset: [`pokemons_pokedex.csv`](./pokemons_pokedex.csv)
+📌 Dataset: [`pokemons.csv`](./pokemons.csv)
 
 Os grupos serão divididos em temas:
 
@@ -137,7 +137,7 @@ Os grupos serão divididos em temas:
 1. Abra no **Google Colab**:
 
    - [Clique aqui para abrir o notebook dos alunos](https://colab.research.google.com/github/prof-andrericardo/uc22-3ºTrimestre/blob/main/UC22_3ºTrimestre_Guia_Alunos.ipynb)
-   - Carregue o dataset `pokemons_pokedex.csv`
+   - Carregue o dataset `pokemons.csv`
    - Resolva as **Missões Pokémon**
 
 2. Para organização local:
